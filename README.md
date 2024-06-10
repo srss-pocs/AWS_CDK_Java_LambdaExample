@@ -18,4 +18,7 @@ Lambda Creation with AWS CDK and Java
 
 10. run > cdk destroy
 
+![image](https://github.com/srss-pocs/AWS_CDK_Java_LambdaExample/assets/145287517/06fba4dd-5f06-465b-954a-3afd8b36be5c)
+
     
+![image](https://github.com/srss-pocs/AWS_CDK_Java_LambdaExample/assets/145287517/abdf138d-95a2-4dec-9d40-cec906bfe1f2)
